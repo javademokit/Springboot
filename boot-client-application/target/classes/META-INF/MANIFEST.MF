@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: boot-client-application
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: rameez_shaikh
+Implementation-Vendor-Id: com.oauth
+Build-Jdk: 1.8.0_141
+Implementation-URL: http://projects.spring.io/spring-boot/boot-client-
+ application/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
